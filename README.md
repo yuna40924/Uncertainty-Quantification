@@ -2,7 +2,7 @@
 ## Survey
 - <a name="todo"></a> Conformal Prediction for Natural Language Processing: A Survey (**ACL 2024**)  [[paper](https://arxiv.org/abs/2405.01976)]
 - <a name="todo"></a> Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey (**ACM 2025**)  [[paper](https://arxiv.org/abs/2503.15850)]
-- <a name="todo"></a> Conformal Prediction: A Data Perspective (**ACM 2024**)  [[paper](https://arxiv.org/abs/2410.06494)][[code](https://github.com/huzr1999/CoFact)]
+- <a name="todo"></a> Conformal Prediction: A Data Perspective (**ACM 2024**)  [[paper](https://arxiv.org/abs/2410.06494)]
 - <a name="todo"></a> 共型预测方法的发展和应用 (**中国科学:数学 2024**)  [[paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0086)]
 
 ## Papers
@@ -21,6 +21,7 @@
 - <a name="todo"></a> Towards Statistical Factuality Guarantee for Large Vision-Language Models (**EMNLP 2025**) [[paper](https://arxiv.org/abs/2502.20560)]
 - <a name="todo"></a> Prune 'n Predict: Optimizing LLM Decision-making with Conformal Prediction (**ICML 2025**) [[paper](https://arxiv.org/abs/2501.00555)]
 - <a name="todo"></a> Wasserstein-regularized Conformal Prediction under General Distribution Shift (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.13430)]
+- <a name="todo"></a> Risk-controlling Prediction with Distributionally Robust Optimization (**TMLR 2025**) [[paper](https://openreview.net/forum?id=d9dl6DyJpJ)][[code](https://github.com/iutzeler/rcps-wdro)]
 
 ### 2024
 - <a name="todo"></a> Conformal Prediction for Class-wise Coverage via Augmented Label Rank Calibration (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.06818)]
