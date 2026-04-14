@@ -2,13 +2,14 @@
 ## Survey
 - <a name="todo"></a> Conformal Prediction for Natural Language Processing: A Survey (**ACL 2024**)  [[paper](https://arxiv.org/abs/2405.01976)]
 - <a name="todo"></a> Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey (**ACM 2025**)  [[paper](https://arxiv.org/abs/2503.15850)]
-- <a name="todo"></a> Conformal Prediction: A Data Perspective(**ACM 2024**)  [[paper](https://arxiv.org/abs/2410.06494)][[code](https://github.com/huzr1999/CoFact)]
+- <a name="todo"></a> Conformal Prediction: A Data Perspective (**ACM 2024**)  [[paper](https://arxiv.org/abs/2410.06494)][[code](https://github.com/huzr1999/CoFact)]
+- <a name="todo"></a> 共型预测方法的发展和应用 (**中国科学:数学 2024**)  [[paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0086)]
 
 ## Papers
 
 ### 2026
 - <a name="todo"></a> Learning to Defer with an Uncertain Rejector via Conformal Prediction (**TMLR 2026**) [[paper](https://openreview.net/forum?id=SZQJ8K2DUe)]
-- <a name="todo"></a> CoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift (**ICLR 2026**) [[paper](https://openreview.net/forum?id=eiBp7rsc3K)]
+- <a name="todo"></a> CoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift (**ICLR 2026**) [[paper](https://openreview.net/forum?id=eiBp7rsc3K)][[code](https://github.com/huzr1999/CoFact)]
 
 ### 2025
 - <a name="todo"></a> Domain-Shift-Aware Conformal Prediction for Large Language Models (**arXiv 2025**) [[paper](https://arxiv.org/abs/2510.05566)]
