@@ -40,6 +40,7 @@
 - <a name="todo"></a> Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction (**TPAMI 2022**) [[paper](https://arxiv.org/abs/2210.03067)]
 - <a name="todo"></a> PAC Prediction Sets for Meta-Learning (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2207.02440)]
 - <a name="todo"></a> Conformal prediction beyond exchangeability (**The Annals of Statistics 2022**) [[paper](https://arxiv.org/abs/2202.13415)]
+- <a name="todo"></a> PAC Prediction Sets Under Covariate Shift (**ICLR 2022**) [[paper](https://arxiv.org/abs/2106.09848)][[code](https://github.com/sangdon/pac-ps-w)]
 
 ### 2021
 - <a name="todo"></a> Few-shot Conformal Prediction with Auxiliary Tasks (**ICML 2021**) [[paper](https://arxiv.org/abs/2102.08898)]
