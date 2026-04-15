@@ -20,7 +20,7 @@
 - <a name="todo"></a> Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models (**ICLR 2025**) [[paper](https://arxiv.org/abs/2410.08174)]
 - <a name="todo"></a> Towards Statistical Factuality Guarantee for Large Vision-Language Models (**EMNLP 2025**) [[paper](https://arxiv.org/abs/2502.20560)]
 - <a name="todo"></a> Prune 'n Predict: Optimizing LLM Decision-making with Conformal Prediction (**ICML 2025**) [[paper](https://arxiv.org/abs/2501.00555)]
-- <a name="todo"></a> Wasserstein-regularized Conformal Prediction under General Distribution Shift (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.13430)]
+- <a name="todo"></a> Wasserstein-regularized Conformal Prediction under General Distribution Shift (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.13430)][[code](https://github.com/rxu0112/WR-CP)]
 - <a name="todo"></a> Risk-controlling Prediction with Distributionally Robust Optimization (**TMLR 2025**) [[paper](https://openreview.net/forum?id=d9dl6DyJpJ)][[code](https://github.com/iutzeler/rcps-wdro)]
 - <a name="todo"></a> Conformal Inference under High-Dimensional Covariate Shifts via Likelihood-Ratio Regularization (**NeurIPS 2025**) [[paper](https://arxiv.org/abs/2502.13030)][[code](https://github.com/shayankiyani98/LR-QR)]
 
